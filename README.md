@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Приветствие и шапка -->
+<h1 align="center">Привет 👋, я [ТВОЁ ИМЯ]</h1>
 
-<!--
-**David-Lennuk/David-Lennuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Красивые картинки -->
+<p align="center">
+  <img src="https://i.imgur.com/0xR8lQH.jpeg" width="250" />
+  <img src="https://i.imgur.com/L0YH2FH.jpeg" width="250" />
+  <img src="https://i.imgur.com/qHRZ5h2.jpeg" width="250" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current main projects.
+
+1. [Balkon | Discord BOT](#)
+
+---
+
+### 🧠 Немного обо мне
+- 🎮 Shadow Fiend player  
+- 🏫 TTHK - Tallinna Tööstushariduskeskus  
+- 📍 Tallinn, Estonia
